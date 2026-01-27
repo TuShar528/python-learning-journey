@@ -1,0 +1,6 @@
+tup = (1,2,3,4,5,4,5)
+count = tup.count(4)
+print(count)
+index = tup.index(3)
+print(index)
+print(max(tup))
